@@ -13,5 +13,5 @@ if (int.TryParse(str1, out int num))
 }
 else
 {
-    Console.WriteLine("Failed to parse the string as an integer.");
+    Console.WriteLine("Failed to parse the string as an.");
 }
